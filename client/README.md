@@ -2,6 +2,12 @@
 
 본 프로젝트는 React강의 목적으로 만들어진 고객관리 시스템 입니다- Josephyou.
 
+- customer management system 리액트의 깃 저장소 =>//https://github.com/iafan1229/customer
+  [출처] 고객 관리 시스템 개발하기 -리액트 편|작성자 치맥녀
+
+react-scripts 버전이 2 이상인 경우 참조
+https://chaewonkong.github.io/posts/express-with-react.html
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
